@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.2.0] - 2023-09-27
+### Changed
+- psr/log dependency to "^1.0 || ^2.0 || ^3.0"
+
 ## [3.1.0] - 2023-05-11
 ### Added
 - Amplitude v2 API support

@@ -1,5 +1,5 @@
 {
-  "name": "laurynasgadl/amplitude-php",
+  "name": "aurimasbutkus/amplitude-php",
   "type": "library",
   "description": "PHP Amplitude client package",
   "keywords": [
@@ -12,11 +12,15 @@
     {
       "name": "Laurynas Gadliauskas",
       "homepage": "https://github.com/laurynasgadl"
+    },
+    {
+      "name": "Aurimas Butkus",
+      "homepage": "https://github.com/aurimasbutkus"
     }
   ],
   "require": {
     "php": ">=7.4",
-    "psr/log": "^1.0",
+    "psr/log": "^1.0 || ^2.0 || ^3.0",
     "guzzlehttp/guzzle": "^7.4",
     "ext-json": "*"
   },
