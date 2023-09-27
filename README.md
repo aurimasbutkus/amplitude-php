@@ -2,7 +2,7 @@
 Straightforward Amplitude client package.
 
 ## Installation
-`composer require laurynasgadl/amplitude-php`
+`composer require aurimasbutkus/amplitude-php`
 
 ## Example
 
