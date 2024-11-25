@@ -81,6 +81,7 @@ class Event implements JsonSerializable
         'idfv' => 'string',
         'adid' => 'string',
         'android_id' => 'string',
+        'insert_id' => 'string',
     ];
 
     protected array $keys = [];
