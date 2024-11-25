@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.3.0] - 2024-11-25
+### Added
+- Support for `insert_id` in events
+
 ## [3.2.0] - 2023-09-27
 ### Changed
 - psr/log dependency to "^1.0 || ^2.0 || ^3.0"
