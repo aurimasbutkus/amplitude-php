@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.4.0] - 2026-04-10
+### Added
+- Support for `user_agent` in events
+
 ## [3.3.0] - 2024-11-25
 ### Added
 - Support for `insert_id` in events
