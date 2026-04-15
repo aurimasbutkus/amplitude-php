@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.5.0] - 2026-04-15
+### Added
+- Support for `session_id` in events
+
 ## [3.4.0] - 2026-04-10
 ### Added
 - Support for `user_agent` in events
